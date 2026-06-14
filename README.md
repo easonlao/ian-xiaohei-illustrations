@@ -76,27 +76,27 @@ AIGC:
 ├── LICENSE                    # MIT 开源许可
 ├── NOTICE.md                  # 版权与声明
 ├── .gitignore
-├── assets/                    # 参考图资源
-│   ├── 01-two-breakpoints.png          # 风格校准参考图
-│   ├── ...
-│   ├── 14-trust-bridge.png             # 风格校准参考图
-│   └── ian-wechat-qr.jpg              # 原作者联系二维码
+├── xiaodai-illustrations/      # 技能主目录
+│   ├── SKILL.md                  # 技能定义与核心指令
+│   ├── agents/
+│   │   └── openai.yaml            # Agent 接口配置
+│   ├── assets/                    # 参考图资源
+│   │   └── examples/              # 14 张风格校准参考图
+│   └── references/                # 技能参考文档
+│       ├── style-dna.md           # 风格 DNA
+│       ├── user-ip.md             # 小呆 IP 定义
+│       ├── composition-patterns.md # 构图模式
+│       ├── prompt-template.md     # 生图提示词模板
+│       └── qa-checklist.md        # 检查清单
 ├── examples/                  # 展示示例
-│   ├── images/                          # 8 张展示样例图
-│   └── prompts.md                       # 使用示例 prompt
-├── agents/
-│   └── openai.yaml            # Agent 接口配置
-└── references/                # 技能参考文档
-    ├── style-dna.md           # 风格 DNA
-    ├── user-ip.md             # 小呆 IP 定义
-    ├── composition-patterns.md # 构图模式
-    ├── prompt-template.md     # 生图提示词模板
-    └── qa-checklist.md        # 检查清单
+│   └── prompts.md             # 使用示例 prompt
+├── LICENSE                    # MIT 开源许可
+└── NOTICE.md                  # 版权与声明
 ```
 
 ## 安装
 
-在扣子（Coze）平台中，搜索并安装「小暖正文配图」技能即可使用。安装后触发方式为向 Agent 提出配图相关需求。
+在扣子（Coze）平台中，搜索并安装「小呆正文配图」技能即可使用。安装后触发方式为向 Agent 提出配图相关需求。
 
 ## License
 

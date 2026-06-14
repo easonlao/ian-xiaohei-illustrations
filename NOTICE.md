@@ -10,7 +10,7 @@ AIGC:
 ---
 # Notice
 
-小呆正文配图（xiaohei-illustrations）是一个 AI-agent 技能，改编自 Ian 的 ian-xiaohei-illustrations 项目。
+小呆正文配图（xiaodai-illustrations）是一个 AI-agent 技能，改编自 Ian 的 ian-xiaohei-illustrations 项目。
 
 本技能中使用的示例图片（`examples/images/` 和 `assets/` 目录下的 PNG 文件）由 Ian 生成，作为风格校准参考图。
 

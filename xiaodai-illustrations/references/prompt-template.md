@@ -8,8 +8,8 @@ Generate one standalone 16:9 horizontal Chinese article illustration.
 Visual DNA:
 Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
 
-Recurring IP character required:
-小呆, a Q-version boy with black fluffy short hair swept right, thin gold-rimmed round glasses, loose black T-shirt with white flame icon on left chest, sitting cross-legged, serious but doing something absurd. 小呆 must perform the core conceptual action, not decorate the scene. Make 小呆 serene, focused, and slightly bizarre, not cute.
+Recurring IP character (小呆) — from reference image:
+小呆, a Q-version boy standing straight wearing home slippers, black short hair, thin gold-rimmed round glasses, loose black T-shirt with a light red flame icon on the left chest, serious but doing something absurd. 小呆 must perform the core conceptual action, not decorate the scene. Make 小呆 serene, focused, and slightly bizarre, not cute.
 
 Theme:
 {正文配图主题}
