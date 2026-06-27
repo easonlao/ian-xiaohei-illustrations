@@ -9,7 +9,7 @@ Visual DNA:
 Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
 
 Recurring IP character (小呆) — from reference image:
-小呆, a Q-version boy standing straight wearing home slippers, black short hair, thin gold-rimmed round glasses, loose black T-shirt with a light red flame icon on the left chest, serious but doing something absurd. 小呆 must perform the core conceptual action, not decorate the scene. Make 小呆 serene, focused, and slightly bizarre, not cute.
+小呆, a little flame person (小火人), which is a small solid red flame-shaped silhouette character with two small white-dot eyes and thin black stick-figure limbs (arms and legs). No hair, no clothing details, no glasses, no shoes. Serious but doing something absurd, participating as the core operator in the conceptual action. Keep the character serene, focused, and slightly bizarre.
 
 Theme:
 {正文配图主题}
@@ -30,7 +30,7 @@ Chinese handwritten labels:
 {标注词1} / {标注词2} / {标注词3} / {标注词4} / {可选标注词5}
 
 Color use:
-Black for main line art and 小呆. Orange for main flow/path/arrows. Red only for key warnings/problems/results. Blue only for secondary notes or feedback/system state.
+Black for main line art. Solid bright red for the character 小呆. Orange for main flow/path/arrows. Red only for key warnings/problems/results. Blue only for secondary notes or feedback/system state.
 
 Constraints:
 One image explains only one core structure. Keep the main subject around 40%-60% of the canvas. Preserve at least 35% blank white space. Use at most 5-8 short handwritten Chinese labels. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, or dense explainer. Do not copy prior examples or reuse known case compositions unless explicitly requested; invent a fresh visual metaphor for this specific article. It should be clear but not instructional, interesting but not childish, strange but clean.
@@ -38,14 +38,8 @@ One image explains only one core structure. Keep the main subject around 40%-60%
 
 ## 图像编辑提示
 
-去掉左上角标题：
-
-```text
-Edit the provided image. Remove only the handwritten title "{要删除的文字}" and its underline from the top-left corner. Fill that area with the same clean white background, matching the surrounding blank paper. Preserve everything else exactly: characters, labels, paths, line style, composition, aspect ratio, and image quality. Do not add any new text or objects.
-```
-
 增强存在感：
 
 ```text
-Regenerate this illustration with the same core meaning and simple layout, but make 小呆 more central to the conceptual action. 小呆 should be doing the strange work that explains the idea, not standing beside the diagram. Keep it clean, sparse, hand-drawn, and not cute.
+Regenerate this illustration with the same core meaning and simple layout, but make the red flame character 小呆 more central to the conceptual action. 小呆 should be doing the strange work that explains the idea, not standing beside the diagram. Keep it clean, sparse, hand-drawn, and not cute.
 ```
