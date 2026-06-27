@@ -2,7 +2,7 @@
 AIGC:
     Label: "1"
     ContentProducer: 001191110102MACQD9K64018705
-    ProduceID: 367649822881267_0-data_volume/7646052380831695119-files/所有对话/主对话/skills/xiaohei-illustrations/README.md
+    ProduceID: 367649822881267_0-data_volume/7646052380831695119-files/所有对话/主对话/skills/xiaodai-illustrations/README.md
     ReservedCode1: ""
     ContentPropagator: 001191110102MACQD9K64028705
     PropagateID: 367649822881267#1781401824828
@@ -104,7 +104,7 @@ MIT License. See LICENSE.
 
 ## 致谢
 
-本技能基于 [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) 改编，原始项目作者 Ian。
+本技能基于 Ian 的小黑正文配图项目改编，原始项目作者 Ian。
 
 ---
 
