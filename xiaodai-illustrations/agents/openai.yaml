@@ -1,6 +1,6 @@
 interface:
   display_name: "小呆配图"
-  short_description: "提供统一的小呆角色、风格与隐喻底座，并为内容判断更合适的配图场景"
-  default_prompt: "Use $xiaodai-illustrations 使用小呆视觉系统先判断这份内容更适合的 scene mode、canvas ratio、subject density 和 core metaphor，再给出配图方案或最终 prompt。"
+  short_description: "围绕小呆角色生成手绘怪诞内容配图，并在需要时补最小竖版适配"
+  default_prompt: "Use $xiaodai-illustrations 围绕小呆角色生成手绘、怪诞、纯白、低科技隐喻感的内容配图。请先判断合适的 scene mode、canvas ratio、subject density 和 core metaphor，再给出配图方案或最终 prompt。"
 policy:
   allow_implicit_invocation: true
