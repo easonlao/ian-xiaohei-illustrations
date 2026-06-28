@@ -1,6 +1,6 @@
 interface:
   display_name: "小呆配图"
-  short_description: "为中文文章生成怪诞清爽、有小呆IP的正文配图资产"
-  default_prompt: "Use $xiaodai-illustrations 为这篇中文文章设计并生成几张小呆怪诞正文配图。"
+  short_description: "提供统一的小呆角色、风格与隐喻底座，并为内容判断更合适的配图场景"
+  default_prompt: "Use $xiaodai-illustrations 使用小呆视觉系统先判断这份内容更适合的 scene mode、canvas ratio、subject density 和 core metaphor，再给出配图方案或最终 prompt。"
 policy:
   allow_implicit_invocation: true
